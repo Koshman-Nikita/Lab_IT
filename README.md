@@ -3,4 +3,4 @@
 
 ## Схема прецендентів:
 
-![precedent_diagram]()
+![precedent_diagram](https://github.com/Koshman-Nikita/Lab_IT/blob/main/uml_IT.drawio.png)
