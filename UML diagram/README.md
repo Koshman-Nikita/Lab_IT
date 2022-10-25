@@ -7,4 +7,6 @@
 
 ![precedent_diagram](https://github.com/Koshman-Nikita/Lab_IT/blob/main/diagram_DBMS.drawio.png)
 
-#### 3)
+#### 3) Діаграма добутку таблиць
+
+![precedent_diagram](https://github.com/Koshman-Nikita/Lab_IT/blob/main/diagram_mult.drawio.png)
