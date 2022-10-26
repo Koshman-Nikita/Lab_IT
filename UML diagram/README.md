@@ -26,3 +26,7 @@
 ### 7) Діаграма активності
 
 ![precedent_diagram](https://github.com/Koshman-Nikita/Lab_IT/blob/main/diagram_activity.drawio.png)
+
+### 7) Діаграма авторизації
+
+![precedent_diagram](https://github.com/Koshman-Nikita/Lab_IT/blob/main/diagram_Authorize.drawio.png)
