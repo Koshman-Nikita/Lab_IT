@@ -9,4 +9,4 @@
 
 #### 3) Діаграма добутку таблиць
 
-![precedent_diagram](https://github.com/Koshman-Nikita/Lab_IT/blob/main/diagram_mult.drawio.png)
+![precedent_diagram](https://github.com/Koshman-Nikita/Lab_IT/blob/main/daigram_deletedub.drawio.png)
