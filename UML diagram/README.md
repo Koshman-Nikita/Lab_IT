@@ -1,7 +1,7 @@
 # UML диаграми
 ## 1)Діаграма створення бд
 
-![precedent_diagram](https://github.com/Koshman-Nikita/Lab_IT/blob/main/diagram_createDB.drawio.png)
+![precedent_diagram](https://github.com/Koshman-Nikita/Lab_IT/blob/main/daigram_createDB.drawio.png)
 
 ### 2) Діаграма класів датабази
 
