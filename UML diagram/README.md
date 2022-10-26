@@ -17,10 +17,11 @@
 
 ### 5) Діаграма видалення бд
 
+![precedent_diagram](https://github.com/Koshman-Nikita/Lab_IT/blob/main/daigram_deleteDB.drawio.png)
 
 ### 6) Діаграма додавання таблиці
 
-
+![precedent_diagram](https://github.com/Koshman-Nikita/Lab_IT/blob/main/daigram_addTable.drawio.png)
 
 ### 7) Діаграма активності
 
