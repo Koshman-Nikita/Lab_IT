@@ -11,9 +11,9 @@
 
 ![precedent_diagram](https://github.com/Koshman-Nikita/Lab_IT/blob/main/image.png)
 
-![precedent_diagram](https://github.com/Koshman-Nikita/Lab_IT/blob/main/image (1).png)
+![precedent_diagram](https://github.com/Koshman-Nikita/Lab_IT/blob/main/image_(1).png)
 
-![precedent_diagram](https://github.com/Koshman-Nikita/Lab_IT/blob/main/image (2).png)
+![precedent_diagram](https://github.com/Koshman-Nikita/Lab_IT/blob/main/image(2).png)
 
 ![precedent_diagram](https://github.com/Koshman-Nikita/Lab_IT/blob/main/image (3).png)
 
