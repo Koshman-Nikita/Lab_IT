@@ -1,0 +1,44 @@
+C:\Users\WS777\OneDrive\Рабочий стол\DBMS-Web-API-main\bin\Debug\net5.0-windows\DBMS.deps.json
+C:\Users\WS777\OneDrive\Рабочий стол\DBMS-Web-API-main\bin\Debug\net5.0-windows\DBMS.runtimeconfig.json
+C:\Users\WS777\OneDrive\Рабочий стол\DBMS-Web-API-main\bin\Debug\net5.0-windows\DBMS.runtimeconfig.dev.json
+C:\Users\WS777\OneDrive\Рабочий стол\DBMS-Web-API-main\bin\Debug\net5.0-windows\DBMS.exe
+C:\Users\WS777\OneDrive\Рабочий стол\DBMS-Web-API-main\bin\Debug\net5.0-windows\appsettings.Development.json
+C:\Users\WS777\OneDrive\Рабочий стол\DBMS-Web-API-main\bin\Debug\net5.0-windows\appsettings.json
+C:\Users\WS777\OneDrive\Рабочий стол\DBMS-Web-API-main\bin\Debug\net5.0-windows\DBMS Web API.exe
+C:\Users\WS777\OneDrive\Рабочий стол\DBMS-Web-API-main\bin\Debug\net5.0-windows\DBMS Web API.deps.json
+C:\Users\WS777\OneDrive\Рабочий стол\DBMS-Web-API-main\bin\Debug\net5.0-windows\DBMS Web API.runtimeconfig.json
+C:\Users\WS777\OneDrive\Рабочий стол\DBMS-Web-API-main\bin\Debug\net5.0-windows\DBMS Web API.runtimeconfig.dev.json
+C:\Users\WS777\OneDrive\Рабочий стол\DBMS-Web-API-main\bin\Debug\net5.0-windows\DBMS Web API.dll
+C:\Users\WS777\OneDrive\Рабочий стол\DBMS-Web-API-main\bin\Debug\net5.0-windows\ref\DBMS Web API.dll
+C:\Users\WS777\OneDrive\Рабочий стол\DBMS-Web-API-main\bin\Debug\net5.0-windows\DBMS Web API.pdb
+C:\Users\WS777\OneDrive\Рабочий стол\DBMS-Web-API-main\bin\Debug\net5.0-windows\DBMS Web API.xml
+C:\Users\WS777\OneDrive\Рабочий стол\DBMS-Web-API-main\bin\Debug\net5.0-windows\System.Net.Http.Formatting.dll
+C:\Users\WS777\OneDrive\Рабочий стол\DBMS-Web-API-main\bin\Debug\net5.0-windows\System.Web.Http.dll
+C:\Users\WS777\OneDrive\Рабочий стол\DBMS-Web-API-main\bin\Debug\net5.0-windows\Microsoft.OpenApi.dll
+C:\Users\WS777\OneDrive\Рабочий стол\DBMS-Web-API-main\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\WS777\OneDrive\Рабочий стол\DBMS-Web-API-main\bin\Debug\net5.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\WS777\OneDrive\Рабочий стол\DBMS-Web-API-main\bin\Debug\net5.0-windows\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\WS777\OneDrive\Рабочий стол\DBMS-Web-API-main\bin\Debug\net5.0-windows\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\WS777\OneDrive\Рабочий стол\DBMS-Web-API-main\bin\Debug\net5.0-windows\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\WS777\OneDrive\Рабочий стол\DBMS-Web-API-main\bin\Debug\net5.0-windows\xunit.abstractions.dll
+C:\Users\WS777\OneDrive\Рабочий стол\DBMS-Web-API-main\bin\Debug\net5.0-windows\xunit.assert.dll
+C:\Users\WS777\OneDrive\Рабочий стол\DBMS-Web-API-main\bin\Debug\net5.0-windows\xunit.core.dll
+C:\Users\WS777\OneDrive\Рабочий стол\DBMS-Web-API-main\bin\Debug\net5.0-windows\DBMS.dll
+C:\Users\WS777\OneDrive\Рабочий стол\DBMS-Web-API-main\bin\Debug\net5.0-windows\DBMS.pdb
+C:\Users\WS777\OneDrive\Рабочий стол\DBMS-Web-API-main\obj\Debug\net5.0-windows\DBMS Web API.csprojAssemblyReference.cache
+C:\Users\WS777\OneDrive\Рабочий стол\DBMS-Web-API-main\obj\Debug\net5.0-windows\DBMS Web API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WS777\OneDrive\Рабочий стол\DBMS-Web-API-main\obj\Debug\net5.0-windows\DBMS Web API.AssemblyInfoInputs.cache
+C:\Users\WS777\OneDrive\Рабочий стол\DBMS-Web-API-main\obj\Debug\net5.0-windows\DBMS Web API.AssemblyInfo.cs
+C:\Users\WS777\OneDrive\Рабочий стол\DBMS-Web-API-main\obj\Debug\net5.0-windows\DBMS Web API.csproj.CoreCompileInputs.cache
+C:\Users\WS777\OneDrive\Рабочий стол\DBMS-Web-API-main\obj\Debug\net5.0-windows\DBMS Web API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\WS777\OneDrive\Рабочий стол\DBMS-Web-API-main\obj\Debug\net5.0-windows\DBMS Web API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\WS777\OneDrive\Рабочий стол\DBMS-Web-API-main\obj\Debug\net5.0-windows\staticwebassets\DBMS Web API.StaticWebAssets.Manifest.cache
+C:\Users\WS777\OneDrive\Рабочий стол\DBMS-Web-API-main\obj\Debug\net5.0-windows\staticwebassets\DBMS Web API.StaticWebAssets.xml
+C:\Users\WS777\OneDrive\Рабочий стол\DBMS-Web-API-main\obj\Debug\net5.0-windows\scopedcss\bundle\DBMS Web API.styles.css
+C:\Users\WS777\OneDrive\Рабочий стол\DBMS-Web-API-main\obj\Debug\net5.0-windows\DBMS Web API.RazorTargetAssemblyInfo.cache
+C:\Users\WS777\OneDrive\Рабочий стол\DBMS-Web-API-main\obj\Debug\net5.0-windows\DBMS Web API.csproj.CopyComplete
+C:\Users\WS777\OneDrive\Рабочий стол\DBMS-Web-API-main\obj\Debug\net5.0-windows\DBMS Web API.dll
+C:\Users\WS777\OneDrive\Рабочий стол\DBMS-Web-API-main\obj\Debug\net5.0-windows\ref\DBMS Web API.dll
+C:\Users\WS777\OneDrive\Рабочий стол\DBMS-Web-API-main\obj\Debug\net5.0-windows\DBMS Web API.xml
+C:\Users\WS777\OneDrive\Рабочий стол\DBMS-Web-API-main\obj\Debug\net5.0-windows\DBMS Web API.pdb
+C:\Users\WS777\OneDrive\Рабочий стол\DBMS-Web-API-main\obj\Debug\net5.0-windows\DBMS Web API.genruntimeconfig.cache

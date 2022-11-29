@@ -1,0 +1,155 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DBMS Web API</name>
+    </assembly>
+    <members>
+        <member name="M:DBMS_Web_API.Controllers.ColumnsController.Get(System.String)">
+            <summary>
+            Gets the list of columns for the specified table
+            </summary>
+            <response code="200">_Gets the list of columns for the specified table_</response>
+            <response code="400">_Database is not created yet_</response>
+            <response code="404">_No table with such name in the database_</response>
+        </member>
+        <member name="M:DBMS_Web_API.Controllers.ColumnsController.Get(System.String,System.String)">
+            <summary>
+            Gets a column with the specified name from the specified table
+            </summary>
+            <response code="200">_Gets a column with the specified name from the specified table_</response>
+            <response code="400">_Database is not created yet_</response>
+            <response code="404">_No table or no column with such name in the database_</response>
+        </member>
+        <member name="M:DBMS_Web_API.Controllers.ColumnsController.Post(System.String,System.String,System.String)">
+            <summary>
+            Creates a column with the specified name and adds it to the specified table
+            </summary>
+            <response code="200">_Creates a column with the specified name and adds it to the specified table_</response>
+            <response code="400">_Database is not created yet_</response>
+            <response code="404">_No table with such name in the database_</response>
+        </member>
+        <member name="M:DBMS_Web_API.Controllers.ColumnsController.Put(System.String,System.Int32,System.String)">
+            <summary>
+            Updates the name of the specified column in the specified table
+            </summary>
+            <response code="200">_Updates the name of the specified column in the specified table_</response>
+            <response code="400">_Database is not created yet_</response>
+            <response code="404">_No table or no column with such name in the database_</response>
+        </member>
+        <member name="M:DBMS_Web_API.Controllers.ColumnsController.Delete(System.String,System.Int32)">
+            <summary>
+            Deletes the specified column from the specified table
+            </summary>
+            <response code="200">_Deletes the specified column from the specified table_</response>
+            <response code="400">_Database is not created yet_</response>
+            <response code="404">_No table or no column with such name in the database_</response>
+        </member>
+        <member name="M:DBMS_Web_API.Controllers.DatabaseController.Get">
+            <summary>
+            Gets the current database
+            </summary>
+            <response code="200">_Gets the current database_</response>
+            <response code="400">_Database is not created yet_</response>
+        </member>
+        <member name="M:DBMS_Web_API.Controllers.DatabaseController.Post(System.String)">
+            <summary>
+            Creates a new database with the specified name
+            </summary>
+            <response code="200">_Creates a new database with the specified name_</response>
+            <response code="400">_Database is already created_</response>
+        </member>
+        <member name="M:DBMS_Web_API.Controllers.DatabaseController.Put(System.String)">
+            <summary>
+            Updates the name of the current database
+            </summary>
+            <response code="200">_Creates a new database with the specified name_</response>
+            <response code="400">_Database is not created yet_</response>
+        </member>
+        <member name="M:DBMS_Web_API.Controllers.DatabaseController.Delete">
+            <summary>
+            Deletes the current database
+            </summary>
+            <response code="200">_Deletes the current database_</response>
+            <response code="400">_Database is not created yet_</response>
+        </member>
+        <member name="M:DBMS_Web_API.Controllers.ProjectionController.Get(System.String,System.String)">
+            <summary>
+            Gets the projection of the specified table by specified columns
+            </summary>
+            <response code="200">_Gets the projection of the specified table by specified columns_</response>
+            <response code="400">_Database is not created yet or number of columns provided is greater than number of columns in the specified table_</response>
+            <response code="404">_There is no table or no columns with such name_</response>
+        </member>
+        <member name="M:DBMS_Web_API.Controllers.RowsController.Get(System.String)">
+            <summary>
+            Gets the list of rows for the specified table
+            </summary>
+            <response code="200">_Gets the list of rows for the specified table_</response>
+            <response code="400">_Database is not created yet_</response>
+            <response code="404">_No table with such name in the database_</response>
+        </member>
+        <member name="M:DBMS_Web_API.Controllers.RowsController.Get(System.String,System.Int32)">
+            <summary>
+            Gets a row with given index from the specified table
+            </summary>
+            <response code="200">_Gets a row with given index from the specified table_</response>
+            <response code="400">_Database is not created yet_</response>
+            <response code="404">_No table with such name in the database or no row at such index in the table_</response>
+        </member>
+        <member name="M:DBMS_Web_API.Controllers.RowsController.Post(System.String,DBMS.Row)">
+            <summary>
+            Adds a row to the specified table
+            </summary>
+            <response code="200">_Adds a row to the specified table_</response>
+            <response code="400">_Database is not created yet, row values' and columns' number don't match, or row values are of invalid type_</response>
+            <response code="404">_No table with such name in the database_</response>
+        </member>
+        <member name="M:DBMS_Web_API.Controllers.RowsController.Put(System.String,System.Int32,DBMS.Row)">
+            <summary>
+            Updates the row at specified index in the specified table
+            </summary>
+            <response code="200">_Updates the row at specified index in the specified table_</response>
+            <response code="400">_Database is not created yet, row values' and columns' number don't match, or row values are of invalid type_</response>
+            <response code="404">_No table with such name in the database or no row at such index in the table_</response>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:DBMS_Web_API.Controllers.RowsController.Delete(System.String,System.Int32)" -->
+        <member name="M:DBMS_Web_API.Controllers.TablesController.Get">
+            <summary>
+            Gets the list of tables in the current database
+            </summary>
+            <response code="200">_Gets the list of tables in the current database_</response>
+            <response code="400">_Database is not created yet_</response>
+        </member>
+        <member name="M:DBMS_Web_API.Controllers.TablesController.Get(System.String)">
+            <summary>
+            Gets the table with the specified name
+            </summary>
+            <response code="200">_Gets the table with the specified name_</response>
+            <response code="400">_Database is not created yet_</response>
+            <response code="404">_No table with such name in the database_</response>
+        </member>
+        <member name="M:DBMS_Web_API.Controllers.TablesController.Post(System.String)">
+            <summary>
+            Creates a table with the specified name
+            </summary>
+            <response code="200">_Creates the table with the specified name_</response>
+            <response code="400">_Database is not created yet or a table with such name is already created_</response>
+        </member>
+        <member name="M:DBMS_Web_API.Controllers.TablesController.Put(System.String,System.String)">
+            <summary>
+            Updates the name of the specified table
+            </summary>
+            <response code="200">_Updates the name of the table to the specified new value_</response>
+            <response code="400">_Database is not created yet_</response>
+            <response code="404">_No table with such name in the database_</response>
+        </member>
+        <member name="M:DBMS_Web_API.Controllers.TablesController.Delete(System.String)">
+            <summary>
+            Deletes the table with the specified name
+            </summary>
+            <response code="200">_Deletes the table with the specified name_</response>
+            <response code="400">_Database is not created yet_</response>
+            <response code="404">_No table with such name in the database_</response>
+        </member>
+    </members>
+</doc>
