@@ -3,30 +3,32 @@
 
 ![precedent_diagram](https://github.com/Koshman-Nikita/Lab_IT/blob/main/diagram_class1.png)
 
-### 2) Діаграма класів датабази
+### 2) Діаграма VOPS
 
-![precedent_diagram](https://github.com/Koshman-Nikita/Lab_IT/blob/main/diagram_DBMS.drawio.png)
+![precedent_diagram](https://github.com/Koshman-Nikita/Lab_IT/blob/main/diagram_vops.png)
 
-### 3) Діаграма видалення дублікатіву в таблиці
+### 3) Діаграмb взаємодії
 
-![precedent_diagram](https://github.com/Koshman-Nikita/Lab_IT/blob/main/daigram_deletedub.drawio.png)
+![precedent_diagram](https://github.com/Koshman-Nikita/Lab_IT/blob/main/image.png)
 
-### 4) Діаграма VOPS
+![precedent_diagram](https://github.com/Koshman-Nikita/Lab_IT/blob/main/image (1).png)
 
-![precedent_diagram](https://github.com/Koshman-Nikita/Lab_IT/blob/main/diagram_VOPC.drawio.png)
+![precedent_diagram](https://github.com/Koshman-Nikita/Lab_IT/blob/main/image (2).png)
 
-### 5) Діаграма видалення бд
+![precedent_diagram](https://github.com/Koshman-Nikita/Lab_IT/blob/main/image (3).png)
 
-![precedent_diagram](https://github.com/Koshman-Nikita/Lab_IT/blob/main/daigram_deleteDB.drawio.png)
+![precedent_diagram](https://github.com/Koshman-Nikita/Lab_IT/blob/main/image (4).png)
 
-### 6) Діаграма додавання таблиці
+![precedent_diagram](https://github.com/Koshman-Nikita/Lab_IT/blob/main/image (5).png)
 
-![precedent_diagram](https://github.com/Koshman-Nikita/Lab_IT/blob/main/daigram_addTable.drawio.png)
+### 4) Діаграми компонентів
 
-### 7) Діаграма активності
+![precedent_diagram](https://github.com/Koshman-Nikita/Lab_IT/blob/main/diagrama_comp1.png)
 
-![precedent_diagram](https://github.com/Koshman-Nikita/Lab_IT/blob/main/diagram_activity.drawio.png)
+![precedent_diagram](https://github.com/Koshman-Nikita/Lab_IT/blob/main/diagrama_comp2.png)
 
-### 7) Діаграма авторизації
+### 5) Діаграма розгортання
 
-![precedent_diagram](https://github.com/Koshman-Nikita/Lab_IT/blob/main/diagram_Authorize.drawio.png)
+![precedent_diagram](https://github.com/Koshman-Nikita/Lab_IT/blob/main/diagram_op.png)
+
+
