@@ -3,4 +3,4 @@
 
 ## Схема прецендентів:
 
-![precedent_diagram](https://github.com/Koshman-Nikita/Lab_IT/blob/main/diagram.drawio.png)
+![precedent_diagram](https://github.com/Koshman-Nikita/Lab_IT/blob/main/diagram.png)
