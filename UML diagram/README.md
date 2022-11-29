@@ -1,7 +1,7 @@
 # UML диаграми
 ## 1)Діаграма класів
 
-![precedent_diagram](https://github.com/Koshman-Nikita/Lab_IT/blob/main/daigram_createDB.drawio.png)
+![precedent_diagram](https://github.com/Koshman-Nikita/Lab_IT/blob/main/diagram_class1.png)
 
 ### 2) Діаграма класів датабази
 
