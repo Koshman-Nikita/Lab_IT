@@ -1,5 +1,5 @@
 # UML диаграми
-## 1)Діаграма створення бд
+## 1)Діаграма класів
 
 ![precedent_diagram](https://github.com/Koshman-Nikita/Lab_IT/blob/main/daigram_createDB.drawio.png)
 
